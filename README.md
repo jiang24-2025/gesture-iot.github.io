@@ -6,14 +6,15 @@
 
 ### 2. Images
 
-[Wirst side1](https://drive.google.com/file/d/1Xz4ucXDm9E4u1b9WcFFjtM1BT0dII3yA/view?usp=sharing)
-[Wirst side2](https://drive.google.com/file/d/1WhgcErW3BGIiZSoic31NKuwy08fGLp5o/view?usp=sharing)
-[Wirst side3](https://drive.google.com/file/d/1IP5SbPvfZTx0fCt1D6epOADhTgWtHuZA/view?usp=sharing)
-[LED Strip](https://drive.google.com/file/d/1lcp8hm98B-PtTK2ByB49gahcIwzHgX9o/view?usp=sharing)
-[fan](https://drive.google.com/file/d/1UMwn-juWKJpwnmXeMFitfm2X6u2r1bQq/view?usp=sharing)
-[LCD_AC](https://drive.google.com/file/d/1TK9tcr_DBCE4fsTQrN108Y63VPO1q6g1/view?usp=sharing)
+![d153b2c3c004a44683c97a60ac9878b5](https://github.com/user-attachments/assets/a08ed438-301a-42d6-8829-91285e7f4adf)
 
-*Include photos of your device from a few angles. If you have a casework, show both the exterior and interior (where the good EE bits are!).*
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/5426d0d1-5095-4c59-95f2-5cd6ccac7cc7" />
+
+![31f04a7e3b46b15270a800cd6164f40a](https://github.com/user-attachments/assets/8c326e3c-dfa7-4cc3-9b6f-d6bb104ce2e7)
+
+![微信图片_20251208151054_262_1](https://github.com/user-attachments/assets/3f60e561-e5a1-4f48-906f-32fe289cdb3b)
+
+![微信图片_20251208151035_253_1](https://github.com/user-attachments/assets/c474ccad-e33f-4dc6-b585-6a2d8d9cfa4b)
 
 ### 3. Results
 
