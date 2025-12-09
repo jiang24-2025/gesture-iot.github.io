@@ -1,4 +1,4 @@
-# jiang24-2025.github.io
+# ese5190_team1_Gesture-Controlled_Smart-Home_System.github.io
 
 ### 1. Video
 
